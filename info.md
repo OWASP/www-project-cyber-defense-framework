@@ -1,6 +1,7 @@
 ### Cyber Defense Framework
-* [Version 0.1]
-* Type of Project
+* Version 0.1
+
+### Type of Project
 * Defender | Breaker | Builder
 
 
