@@ -1,9 +1,9 @@
 ---
-title: other
+title: example
 layout:  null
 tab: true
 order: 1
-tags: other-tag
+tags: example-tag
 ---
 
 ## other
