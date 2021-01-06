@@ -1,2 +1,2 @@
 ### Leaders
-* [Abdus Saboor](mailto:abdus@vxg.co)
+* [Abdus Saboor](mailto:abdus.saboor@owasp.org)
