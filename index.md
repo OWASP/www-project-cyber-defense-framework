@@ -15,5 +15,5 @@ This can be extremely handy for the organizations as well that have outsourced t
 
 Stay tuned, more information coming soon...
 
-## Acknowledgement to the Team
+### Acknowledgement to the Team
 Announced soon
