@@ -17,4 +17,4 @@ Stay tuned, more information coming soon...
 
 
 ### Acknowledgement to the Team
-Announced soon
+Coming soon
