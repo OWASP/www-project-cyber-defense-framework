@@ -1,5 +1,5 @@
 ### Cyber Defense Framework
-* Version 0.1
+* Version in progress (publishing soon)
 
 
 ### Project Classification
