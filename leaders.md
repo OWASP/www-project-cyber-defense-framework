@@ -1,2 +1,2 @@
 ### Leaders
-* [Abdus Saboor](mailto:abdus.saboor@owasp.org)
+* Abdus Saboor [Email](mailto:abdus.saboor@owasp.org) | [Linkedin](https://www.linkedin.com/in/abdussaboor/)
