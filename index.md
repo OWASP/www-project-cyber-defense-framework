@@ -9,7 +9,7 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-<img src="\images\OWASP%20CDF%20v1.0.jpg">
+<img src="https://github.com/OWASP/www-project-cyber-defense-framework/blob/main/assets/images/OWASP%20CDF%20v1.0.jpg">
 
 https://github.com/OWASP/www-project-cyber-defense-framework/blob/main/assets/images/OWASP%20CDF%20v1.0.jpg
 
