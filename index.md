@@ -16,11 +16,17 @@ pitch: A very brief, one-line description of your project
 
 The Cyber Defense Framework (CDF) addresses various challenges and key requirements to secure your IT Infrastructure against emerging Cyber Threats. Based on 5 domains, the controls set out clear expectations to evaluate the maturity to be in place at the Cyber Defense Center or Security Operation Center to protect their organization. CDF will play a vital role for organizations in designing a comprehensive Roadmap.
 
+
 This can be extremely handy for the organizations as well that have outsourced the related functions to thirdparties and need to ensure if they really have them covered.
+
 
 Stay tuned, more information coming soon...
 
 
-### Acknowledgement to the Team
+### Join the Research Team
+If you have the relevant work experience and/or conducted research with the related and interested to join the team in enhancing the CDF, get in touch with the project leader.
+
+
+### Acknowledgements
 - Team at Priv0.com
 - More coming soon...
