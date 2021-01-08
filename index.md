@@ -22,4 +22,5 @@ Stay tuned, more information coming soon...
 
 
 ### Acknowledgement to the Team
-Coming soon
+- Team at Priv0.com
+- More coming soon...
