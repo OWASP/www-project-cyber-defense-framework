@@ -10,7 +10,7 @@
 
 
 ### Follow us on Social Media
-* [Linkedin Page](https://www.linkedin.com/company/owasp-cyber-defense-framework)
+* [Linkedin](https://www.linkedin.com/company/owasp-cyber-defense-framework)
 
 
 ### Change Log
