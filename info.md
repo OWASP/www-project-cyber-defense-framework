@@ -9,8 +9,8 @@
 * <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
 
 
-### Downloads or Social Links
-* [Coming soon](#)
+### Follow us on Social Media
+* [Linkedin Page](https://www.linkedin.com/company/owasp-cyber-defense-framework)
 
 
 ### Change Log
