@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+layout: col-document
 title: OWASP Cyber Defense Framework
 tags: example-tag
 level: 1
