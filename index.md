@@ -20,7 +20,7 @@ This can be extremely handy for the organizations as well that have outsourced t
 
 Stay tuned, Framework publishing soon...
 
-<img align="center" style="padding: 10px;" width="520px" src="assets/images/CDF-illustration.jpg" />
+<img align="center" style="padding: 10px;" width="820px" src="assets/images/CDF-illustration.jpg" />
 
 
 ### Join the Research Team
