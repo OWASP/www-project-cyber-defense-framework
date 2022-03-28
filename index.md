@@ -19,7 +19,9 @@ The Cyber Defense Framework (CDF) addresses various challenges and key requireme
 This can be extremely handy for the organizations as well that have outsourced the related functions to third parties and need to ensure if they really have them covered.
 
 
-Stay tuned, more information coming soon...
+Stay tuned, Framework publishing soon...
+
+https://github.com/OWASP/www-project-cyber-defense-framework/blob/main/assets/images/CDF%20-%20illustration.png
 
 
 ### Join the Research Team
