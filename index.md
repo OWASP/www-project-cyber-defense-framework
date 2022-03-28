@@ -10,7 +10,6 @@ pitch: A very brief, one-line description of your project
 ---
 
 
-
 <img src="assets/images/OWASP CDF v1.0 (2).png" width="450" height="100">
 
 
@@ -21,7 +20,7 @@ This can be extremely handy for the organizations as well that have outsourced t
 
 Stay tuned, Framework publishing soon...
 
-(assets/images/CDF-illustration.jpg)
+<img align="right" style="padding: 10px;" width="220px" src="assets/images/CDF-illustration.jpg" />
 
 
 ### Join the Research Team
