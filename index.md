@@ -21,7 +21,7 @@ This can be extremely handy for the organizations as well that have outsourced t
 
 Stay tuned, Framework publishing soon...
 
-<img src="/assets/images/CDF-illustration.png" width="1750" height="300">
+<img src="/assets/images/CDF-illustration.jpg">
 
 
 ### Join the Research Team
